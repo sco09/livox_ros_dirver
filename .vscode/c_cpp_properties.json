@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/zkc/project/ros/drivers/devel/include/**",
+        "/home/zkc/project/ros/slam/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/zkc/project/ros/slam/src/CURL_SLAM_ros/include/**",
+        "/home/zkc/project/ros/drivers/src/LIO-SAM/include/**",
+        "/home/zkc/project/ros/drivers/src/SC-LIO-SAM/SC-LIO-SAM/include/**",
+        "/home/zkc/project/ros/drivers/src/microstrain_inertial/microstrain_inertial_driver/include/**",
+        "/home/zkc/project/ros/slam/src/patchwork-plusplus-ros/include/**",
+        "/home/zkc/project/ros/drivers/src/robot_localization/include/**",
+        "/home/zkc/project/ros/drivers/src/rslidar_to_velodyne/include/**",
+        "/home/zkc/project/ros/drivers/src/scout_ros/scout_base/include/**",
+        "/home/zkc/project/ros/slam/src/TRAVEL/include/**",
+        "/home/zkc/project/ros/drivers/src/ugv_sdk/include/**",
+        "/home/zkc/project/ros/drivers/src/velodyne/velodyne_driver/include/**",
+        "/home/zkc/project/ros/drivers/src/velodyne/velodyne_laserscan/include/**",
+        "/home/zkc/project/ros/drivers/src/velodyne/velodyne_pcl/include/**",
+        "/home/zkc/project/ros/drivers/src/velodyne/velodyne_pointcloud/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
